@@ -1,5 +1,5 @@
 # Instagram-Home-Page
-Pagina Inicial do Instagram Desenvolvida em curso na Digital Innovaton One
+Pagina Inicial do Instagram Desenvolvida em curso na Digital Innovaton One, tema de aplicação prática de Flex Box.
 
 Esse projeto visa ser uma versão aproximada da página inicial do instagram.
 
